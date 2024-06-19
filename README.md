@@ -1,6 +1,7 @@
 # Book Management API
 
 A simple Express.js API for managing books, including creation, retrieval, updating, and deletion with filtering and sorting capabilities.
+The API also includes logging middleware to log requests and book-related operations, ensuring error details are recorded for better traceability.
 
 ## Features
 
